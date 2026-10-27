@@ -30,3 +30,9 @@ PY
 
 ## Before production
 Add provider adapters, retries and timeouts, streaming support, per-tenant budgets, secret management, rate limiting, live telemetry, pricing refresh, and fallback tests. Never log prompts or credentials by default.
+
+## Explore more
+
+- [AI Lead Qualification Agent](https://github.com/HardikPaghdar/ai-lead-qualification-agent) — transparent rule-based lead triage.
+- [Production RAG Pipeline](https://github.com/HardikPaghdar/production-rag-pipeline) — retrieval, reranking, citations, and evaluation.
+- [More projects on my portfolio](https://hardikpaghdar.netlify.app/).
