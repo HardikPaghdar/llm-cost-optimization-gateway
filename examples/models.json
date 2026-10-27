@@ -1,0 +1,5 @@
+[
+  {"name":"small-chat","input_usd_per_million":0.2,"output_usd_per_million":0.4,"latency_ms":650,"capabilities":["chat","summarization"]},
+  {"name":"structured-fast","input_usd_per_million":1.0,"output_usd_per_million":2.0,"latency_ms":120,"capabilities":["chat","json","tool-calling"]},
+  {"name":"vision-premium","input_usd_per_million":3.0,"output_usd_per_million":9.0,"latency_ms":900,"capabilities":["chat","vision"]}
+]
